@@ -17,13 +17,10 @@ To write a program to implement the linear regression using gradient descent.
 
 ## PROGRAM:
 ```
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: Aashima Nazreen Sayeed S
 RegisterNumber: 212221240002 
-*/
-```
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
