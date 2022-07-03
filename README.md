@@ -16,7 +16,7 @@ To write a program to implement the linear regression using gradient descent.
 6. Plot the graph respect to hours and scores using scatter plot function.
 
 ## PROGRAM: 
-```
+```python
 Program to implement the linear regression using gradient descent.
 Developed by: Aashima Nazreen Sayeed S
 RegisterNumber: 212221240002 
